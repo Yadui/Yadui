@@ -3,7 +3,7 @@
 **Cloud & AI Engineer** at Foetron, Gurugram, India. I build AI agents, document automation,
 and the Azure infrastructure and full-stack apps they run on, for businesses that can't afford to over-engineer.
 
-[yadui.dev](https://yadui.dev) · [Blog](https://yadui.dev/blog) · [LinkedIn](https://www.linkedin.com/in/abhinavyadav88/) · [X](https://x.com/abhinav2302055) · [abhinavyadav8@gmail.com](mailto:abhinavyadav8@gmail.com)
+[yadui.dev](https://yadui.dev) · [Blog](https://yadui.dev/blog) · [LinkedIn](https://www.linkedin.com/in/abhinavyadav88/) · [X](https://x.com/abhinav2302055) · [DEV](https://dev.to/abhinav_yadav_b42c8a717ab) · [Medium](https://medium.com/@abhinavyadav8) · [Hashnode](https://yadui.hashnode.dev) · [abhinavyadav8@gmail.com](mailto:abhinavyadav8@gmail.com)
 
 ---
 
